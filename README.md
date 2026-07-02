@@ -9,4 +9,4 @@ nesse novo modelo de IA,
 vc decide quais skill o homunculus vai usar e quanto tempo entre cada skill,
 n testei limites tambem possa ser q algo falhe
 
-Baixe os arquivos e adicione na pasta USER_AI do jogo
+Baixe apenas o USER_AI.zip e cole os arquivos na pasta USER_AI do jogo
